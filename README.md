@@ -65,5 +65,7 @@ Note: The snippet "cmd 24" takes about 20 to 30 minutes to successfully execute.
 
 ## References:
 [1]https://www.statista.com/study/48975/energy-production-in-the-united-states/?locale=en 
+
 [2]https://www.statista.com/study/74593/electricity-worldwide/
+
 [3]https://www.vertex42.com/ExcelTemplates/simple-gantt-chart.html?utm_source=ms&utm_medium=file&utm_campaign=office&utm_content=url
